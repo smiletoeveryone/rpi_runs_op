@@ -20,18 +20,18 @@
 
 1.download openpilot, recommend 0.5.4 or 0.5.8
 
-2.~/openpilot$ ./install_capnp.sh # you could get in this web
+2.~/openpilot$ ./install_capnp.sh  #  you could get in this web
 
 3.~/openpilot$ pip install pipenv
 
-4.~/openpilot$ pipenv install # for creating a virtual environment for op
+4.~/openpilot$ pipenv install  #  for creating a virtual environment for op
 
-5.~/openpilot$ pipenv shell # run the virtual env
+5.~/openpilot$ pipenv shell  #  run the virtual env
 
-6.~# git clone https://github.com/commaai/openpilot-tools.git tools #if you like to manage your car by a joystick later.
+6.~# git clone https://github.com/commaai/openpilot-tools.git tools  # if you like to manage your car by a joystick later.
 
 7.~/openpilot$ cd tools
 
-8.~/openpilot/tools$ pip install -r requirements.txt # should be ran in the vitual env
+8.~/openpilot/tools$ pip install -r requirements.txt  #  should be ran in the vitual env
 
 9 ~/openpilot/tools$ export PYTHONPATH=/path-to-openpilot
