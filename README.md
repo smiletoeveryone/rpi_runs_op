@@ -28,7 +28,7 @@
 
 5.~/openpilot$ pipenv shell  #  run the virtual env
 
-6.~# git clone https://github.com/commaai/openpilot-tools.git tools  # if you like to manage your car by a joystick later.
+6.~/openpilot$ git clone https://github.com/commaai/openpilot-tools.git tools  # if you like to manage your car by a joystick later.
 
 7.~/openpilot$ cd tools
 
