@@ -4,6 +4,10 @@
 
 ![](https://github.com/smiletoeveryone/rpi_runs_op/blob/master/rpi_op.jpg)
 
+## Software and hardware requirement
+
+Raspberry pi4 with rasbian os
+
 ## 1st section to build the environment for op 
 
 1.~# sudo apt install pip
